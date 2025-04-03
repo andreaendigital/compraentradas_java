@@ -9,8 +9,8 @@ Gestionaremos un sistema de venta de entradas, permitiendo al usuario selecciona
 ### ✨ Requerimientos ✨
 
 👌 1. Al iniciar el programa, se debe desplegar un menú principal con las siguientes opciones, utilizando un ciclo iterativo ‘for’, el cual debe contener lo siguiente:
-  •	Comprar entrada.
-  •	Salir.
+- Comprar entrada
+- Salir
 
 👌 2. Al seleccionar la opción "Comprar entrada", el programa debe:
 
@@ -21,11 +21,10 @@ Gestionaremos un sistema de venta de entradas, permitiendo al usuario selecciona
   •	Calcular el precio final de la entrada con un ciclo ‘while’ o ‘do while’, aplicando los descuentos correspondientes.
 
 👌 3. Después de realizar la compra, el sistema debe mostrar un resumen de la transacción, incluyendo:
-
-  •	Ubicación del asiento.
-  •	Precio base de la entrada.
-  •	Descuento aplicado.
-  •	Precio final a pagar.
+- Ubicación del asiento
+- Precio base de la entrada
+- Descuento aplicado
+- Precio final a pagar
 
 👌 4. Implementar ciclos iterativos para permitir que el usuario realice múltiples compras sin tener que reiniciar el programa, y al finalizar cada compra, el programa debe preguntar al usuario si desea realizar otra compra o salir del sistema.
 
