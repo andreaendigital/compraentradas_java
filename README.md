@@ -2,32 +2,30 @@
 
 ## Descripción del Proyecto :scroll:
 
-Gestionaremos un sistema de venta de entradas, permitiendo al usuario seleccionar la ubicación de los asientos y aplicar descuentos según fuera necesario.
+Gestionaremos un sistema de venta de entradas, permitiendo al usuario seleccionar la ubicación de los asientos y aplicar descuentos según fuera necesario. USando Estructuras de Control y Condicionales en Java.
 
 ## Sobre el proyecto 🚀
 
 ### ✨ Requerimientos ✨
 
 👌 1. Al iniciar el programa, se debe desplegar un menú principal con las siguientes opciones, utilizando un ciclo iterativo ‘for’, el cual debe contener lo siguiente:
-•	Comprar entrada.
-•	Salir.
-
+  •	Comprar entrada.
+  •	Salir.
 
 👌 2. Al seleccionar la opción "Comprar entrada", el programa debe:
 
-•	Solicitar la ubicación del asiento al usuario utilizando alguna validación una estructura condicional ‘if’. Además, debe mostrar un plano del teatro con las ubicaciones disponibles (por ejemplo, Zona A, B, C).
+  •	Solicitar la ubicación del asiento al usuario utilizando alguna validación una estructura condicional ‘if’. Además, debe mostrar un plano del teatro con las ubicaciones disponibles (por ejemplo, Zona A, B, C).
 
-•	Solicitar al usuario que ingrese su edad, también validando con una estructura condicional ‘if-else’, para aplicar el descuento correspondiente (se deben considerar descuentos del 10% para estudiantes y del 15% para personas de la tercera edad).
+  •	Solicitar al usuario que ingrese su edad, también validando con una estructura condicional ‘if-else’, para aplicar el descuento correspondiente (se deben considerar descuentos del 10% para estudiantes y del 15% para personas de la tercera edad).
 
-•	Calcular el precio final de la entrada con un ciclo ‘while’ o ‘do while’, aplicando los descuentos correspondientes.
-
-
+  •	Calcular el precio final de la entrada con un ciclo ‘while’ o ‘do while’, aplicando los descuentos correspondientes.
 
 👌 3. Después de realizar la compra, el sistema debe mostrar un resumen de la transacción, incluyendo:
-•	Ubicación del asiento.
-•	Precio base de la entrada.
-•	Descuento aplicado.
-•	Precio final a pagar.
+
+  •	Ubicación del asiento.
+  •	Precio base de la entrada.
+  •	Descuento aplicado.
+  •	Precio final a pagar.
 
 👌 4. Implementar ciclos iterativos para permitir que el usuario realice múltiples compras sin tener que reiniciar el programa, y al finalizar cada compra, el programa debe preguntar al usuario si desea realizar otra compra o salir del sistema.
 
@@ -70,7 +68,7 @@ Se muestra el resumen de la compra y se valida:
 ![Captura de pantalla 2025-04-03 123720](https://github.com/user-attachments/assets/44c965f0-8e9a-45d7-a686-e9176495776c)
 
 
-Investigaciones adicionales como el uso de ChartAt(0);
+Investigaciones adicionales como el uso de ChartAt(0) o del scanner.hasNextInt:
 
 ![Captura de pantalla 2025-04-03 125508](https://github.com/user-attachments/assets/ac4af229-2990-438d-9e37-f761a37e77f4)
 
